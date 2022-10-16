@@ -1,5 +1,5 @@
 ---
-title: <Lily's Test>
+title: Lily's Test
 layout: default
 nav_order: 1
 ---
