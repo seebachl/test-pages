@@ -10,4 +10,5 @@ nav_order: 1
 here is a picture of a puppy in leaves
 ![puppy in leaves](https://upload.wikimedia.org/wikipedia/commons/7/71/St._Bernard_puppy.jpg)
   
-
+here is a picture of another puppy
+![another puppy](docs/Golde33443.jpg)
