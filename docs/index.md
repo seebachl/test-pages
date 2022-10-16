@@ -27,3 +27,9 @@ Some days of the week are
 A [link](https://en.wikipedia.org/wiki/Puppy) to a wikipedia page about puppies
 
 `git status`
+
+---
+cell 1: cell 2
+cell 3: cell 4
+cell 5: cell 6
+---
