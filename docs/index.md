@@ -12,3 +12,9 @@ here is a picture of a puppy in leaves
   
 here is a picture of another puppy
 ![another puppy](Golde33443.jpg)
+
+My favourite fruits are 
+  
+  1. Strawberry
+  2. Grapes 
+  3. Apple
