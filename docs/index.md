@@ -20,6 +20,6 @@ My favourite fruits are
 3. Apple
 
 Some days of the week are 
--Monday
--Tueday
--Wednesday
+- Monday
+- Tueday
+- Wednesday
