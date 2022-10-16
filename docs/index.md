@@ -15,11 +15,11 @@ here is a picture of another puppy
 
 My favourite fruits are 
   
-  1. Strawberry
-  2. Grapes 
-  3. Apple
+1. Strawberry
+2. Grapes 
+3. Apple
 
 Some days of the week are 
-  *Monday
-  *Tueday
-  *Wednesday
+*Monday
+*Tueday
+*Wednesday
