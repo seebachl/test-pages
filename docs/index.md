@@ -18,3 +18,8 @@ My favourite fruits are
   1. Strawberry
   2. Grapes 
   3. Apple
+
+Some days of the week are 
+  *Monday
+  *Tueday
+  *Wednesday
