@@ -28,8 +28,7 @@ A [link](https://en.wikipedia.org/wiki/Puppy) to a wikipedia page about puppies
 
 `git status`
 
----
-cell 1: cell 2
-cell 3: cell 4
-cell 5: cell 6
----
+| Col 1 Header  | Col 2 Header  |
+| ------------- | ------------- |
+| Cell 1        | Cell 2        |
+| Cell 3        | Cell 4        |
