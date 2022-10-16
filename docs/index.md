@@ -5,4 +5,4 @@ nav_order: 1
 ---
 # This is the largest heading
 ## This is a smaller heading
-** bolded text looks like this ** while *italicized text looks like this*
+**bolded text looks like this** while *italicized text looks like this*
